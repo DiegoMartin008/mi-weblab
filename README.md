@@ -1,4 +1,4 @@
-# WebLab — Tu primera web, paso a paso
+# Laboratorio Diego
 
 **v0.1 · 1.º DAM · Lenguajes de Marcas y Sistemas de Gestión de Información (LMSGI)**
 
