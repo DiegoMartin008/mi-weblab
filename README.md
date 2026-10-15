@@ -8,6 +8,19 @@ No necesita frameworks, paquetes, compilación, cuenta de usuario ni conexión a
 
 ![Las tres capas de una web: HTML, CSS y JavaScript](img/web-stack.svg)
 
+## Trabajo realizado
+
+Enlace a Pages: https://diegomartin008.github.io/mi-weblab/
+
+### Prácticas realizadas
+
+- clonar un repositorio de github a mi repositorio local
+- modificar un repositorio y hacer commit y push
+- hacer ramas en git para modificar y luego unirla al main
+- resolver un conflicto en la fusion de ramas
+- deshacer push con revert
+
+
 ## Objetivos de aprendizaje
 
 - Crear documentos HTML con estructura semántica y jerarquía de títulos.
